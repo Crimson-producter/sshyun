@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,_(g,h,i,_(j,k,l,m)),n,[],o,_(h,p),q,[r],s,_(t,u,v,w,g,x,y,_(),z,[],A,_(B,C,D,E,F,_(G,H,I,J),K,null,L,E,E,M,N,O,null,P,Q,R,S,T,U,V,Q,W,X,_(G,H,I,Y),Z,Q,ba,bb,_(bc,bd,be,bf,bg,bf,bh,bf,bi,bj,I,_(bk,bl,bm,bl,bn,bl,bo,bp)),i,_(j,k,l,m)),bq,_(),br,_(),bs,_(bt,[])),bu,_(),bv,_());}; 
+var b="url",c="运营系统小程序.html",d="generationDate",e=new Date(1647333336247.12),f="defaultAdaptiveView",g="name",h="",i="size",j="width",k=414,l="height",m=896,n="adaptiveViews",o="sketchKeys",p="s0",q="variables",r="OnLoadVariable",s="page",t="packageId",u="952a6b66a965411480c64c26063c633b",v="type",w="Axure:Page",x="运营系统小程序",y="notes",z="annotations",A="style",B="baseStyle",C="627587b6038d43cca051c114ac41ad32",D="pageAlignment",E="near",F="fill",G="fillType",H="solid",I="color",J=0xFFD7D7D7,K="image",L="imageAlignment",M="imageRepeat",N="auto",O="favicon",P="sketchFactor",Q="0",R="colorStyle",S="appliedColor",T="fontName",U="Applied Font",V="borderWidth",W="borderVisibility",X="borderFill",Y=0xFF797979,Z="cornerRadius",ba="cornerVisibility",bb="outerShadow",bc="on",bd=false,be="offsetX",bf=5,bg="offsetY",bh="blurRadius",bi="spread",bj=0,bk="r",bl=0,bm="g",bn="b",bo="a",bp=0.349019607843137,bq="adaptiveStyles",br="interactionMap",bs="diagram",bt="objects",bu="masters",bv="objectPaths";
+return _creator();
+})());
