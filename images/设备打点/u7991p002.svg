@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="112 221  22 18" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(-1 0 0 -1 246 460 )">
-    <path d="M 108 227.5  A 3 3 0 0 0 105 230.5 A 3 3 0 0 0 108 233.5 A 3 3 0 0 0 111 230.5 A 3 3 0 0 0 108 227.5 Z M 108 228.5  A 2 2 0 0 1 110 230.5 A 2 2 0 0 1 108 232.5 A 2 2 0 0 1 106 230.5 A 2 2 0 0 1 108 228.5 Z M 124 227.5  A 3 3 0 0 0 121 230.5 A 3 3 0 0 0 124 233.5 A 3 3 0 0 0 127 230.5 A 3 3 0 0 0 124 227.5 Z M 124 228.5  A 2 2 0 0 1 126 230.5 A 2 2 0 0 1 124 232.5 A 2 2 0 0 1 122 230.5 A 2 2 0 0 1 124 228.5 Z " fill-rule="nonzero" fill="#0079fe" stroke="none" />
-    <path d="M 110 230.5  L 122 230.5  " stroke-width="1" stroke-dasharray="1,1" stroke="#0079fe" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="112 205  22 18" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(-1 0 0 -1 246 428 )">
+    <path d="M 108 210.5  A 3 3 0 0 0 105 213.5 A 3 3 0 0 0 108 216.5 A 3 3 0 0 0 111 213.5 A 3 3 0 0 0 108 210.5 Z M 108 211.5  A 2 2 0 0 1 110 213.5 A 2 2 0 0 1 108 215.5 A 2 2 0 0 1 106 213.5 A 2 2 0 0 1 108 211.5 Z M 124 210.5  A 3 3 0 0 0 121 213.5 A 3 3 0 0 0 124 216.5 A 3 3 0 0 0 127 213.5 A 3 3 0 0 0 124 210.5 Z M 124 211.5  A 2 2 0 0 1 126 213.5 A 2 2 0 0 1 124 215.5 A 2 2 0 0 1 122 213.5 A 2 2 0 0 1 124 211.5 Z " fill-rule="nonzero" fill="#0079fe" stroke="none" />
+    <path d="M 110 213.5  L 122 213.5  " stroke-width="1" stroke-dasharray="1,1" stroke="#0079fe" fill="none" />
   </g>
 </svg>
